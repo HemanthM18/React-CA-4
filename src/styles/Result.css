@@ -1,0 +1,29 @@
+.light-dark{
+    background-color: #9a9a9a81;
+    color: #fff;
+    top: 110px;
+    right: 200px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: solid 2px black;
+    position: absolute;
+    height: 50px;
+    width: 120px;
+    cursor: pointer;
+}
+.restart-button{
+    background-color: rgba(51, 51, 51, 0.634);
+    border: solid 1px white;
+    color: #fff;
+    margin-top: 30px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.scoreBoard{
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 30px;
+    font-size: 24px;
+    text-align: center;
+}
